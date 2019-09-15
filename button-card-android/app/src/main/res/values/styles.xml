@@ -10,6 +10,7 @@
 
     <style name="Widget.App.ButtonCard" parent="CardView">
         <item name="cardCornerRadius">6dp</item>
+        <item name="android:clickable">true</item>
     </style>
 
     <style name="Widget.App.ButtonCardContent" parent="">
